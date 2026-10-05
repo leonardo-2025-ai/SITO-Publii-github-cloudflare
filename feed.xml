@@ -3,12 +3,32 @@
     <title>Differenze</title>
     <link href="https://sito-publii-to-cloudflare.pages.dev/feed.xml" rel="self" />
     <link href="https://sito-publii-to-cloudflare.pages.dev" />
-    <updated>2025-11-13T10:07:32+01:00</updated>
+    <updated>2026-10-05T10:32:52+02:00</updated>
     <author>
         <name>io</name>
     </author>
     <id>https://sito-publii-to-cloudflare.pages.dev</id>
 
+    <entry>
+        <title>Verifica configurazione</title>
+        <author>
+            <name>io</name>
+        </author>
+        <link href="https://sito-publii-to-cloudflare.pages.dev/verifica-configurazione.html"/>
+        <id>https://sito-publii-to-cloudflare.pages.dev/verifica-configurazione.html</id>
+
+        <updated>2026-10-05T10:32:52+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Questo sito è pubblicato su cluodflare passando per git hub. La realizzazione avviene su publii...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Questo sito è pubblicato su cluodflare passando per git hub. La realizzazione avviene su publii...</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test</title>
         <author>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sito-publii-to-cloudflare.pages.dev/verifica-configurazione.html",
+            "url": "https://sito-publii-to-cloudflare.pages.dev/verifica-configurazione.html",
+            "title": "Verifica configurazione",
+            "summary": "Questo sito è pubblicato su cluodflare passando per git hub. La realizzazione avviene su publii...",
+            "content_html": "<p>Questo sito è pubblicato su cluodflare passando per git hub. La realizzazione avviene su publii...</p>",
+            "author": {
+                "name": "io"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-05T10:32:52+02:00",
+            "date_modified": "2026-10-05T10:32:52+02:00"
+        },
+        {
             "id": "https://sito-publii-to-cloudflare.pages.dev/test.html",
             "url": "https://sito-publii-to-cloudflare.pages.dev/test.html",
             "title": "test",
