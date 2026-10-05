@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sito-publii-to-cloudflare.pages.dev/sitemap.xml

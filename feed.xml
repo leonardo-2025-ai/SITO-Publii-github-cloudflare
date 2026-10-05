@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Differenze</title>
+    <link href="https://sito-publii-to-cloudflare.pages.dev/feed.xml" rel="self" />
+    <link href="https://sito-publii-to-cloudflare.pages.dev" />
+    <updated>2025-11-13T10:07:32+01:00</updated>
+    <author>
+        <name>io</name>
+    </author>
+    <id>https://sito-publii-to-cloudflare.pages.dev</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>io</name>
+        </author>
+        <link href="https://sito-publii-to-cloudflare.pages.dev/test.html"/>
+        <id>https://sito-publii-to-cloudflare.pages.dev/test.html</id>
+
+        <updated>2025-11-13T10:07:32+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    sdf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>sdf</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
